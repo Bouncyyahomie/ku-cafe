@@ -2,7 +2,7 @@
 
 
 Breakfast Menu
-Lunch Menu
+Lunch Menu [Beverages](Menu.md/#Lunch Menu)
 Dinner Menu
 Night Food Menu
 Beverages
