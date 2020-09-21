@@ -22,7 +22,7 @@
 | Hot tomato Soup                        | 50.00  |
 | LAMB CURRY                             | 60.00  |
 
-## Night Food Menu Menu
+## Night Food Menu 
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
