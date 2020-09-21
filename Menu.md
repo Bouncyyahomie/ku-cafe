@@ -20,6 +20,15 @@
 | Hot tomato Soup | 50.00 |
 | LAMB CURRY      | 60.00 |
 
+## Dinner Menu
+| Item                      | Price |
+|:--------------------------|------:|
+| Pork shop steak           |  100.00 |
+| Pasta Cream Sauce         |  80.00 |
+| Pad Thai                  |  50.00 |
+| Pizza sea food            |  150.00 |
+| Stewed pork leg with rice |  30.00 |
+
 ## Night Food Menu
 
 | Item                   | Price |
@@ -40,7 +49,5 @@
 | Lemon tea   |  15.0 |
 | Coffee      |  15.0 |
 | Water       |  10.0 |
-
----
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
