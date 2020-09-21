@@ -11,7 +11,9 @@ Beverages
 
 **TODO**: Each person adds himself to this list; **not** one person adds everyone
 
+
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
+| Your name | Your menu | @your_github_id |
 | Jakkrathorn | Lunch | @Bouncyyahomie |
 | ...       | ...       | ...      |
