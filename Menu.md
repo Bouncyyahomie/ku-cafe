@@ -22,6 +22,17 @@
 | Hot tomato Soup                        | 50.00  |
 | LAMB CURRY                             | 60.00  |
 
+## Night Food Menu Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Yum-Yum noodles                        | 15.0  |
+| Joke Cup                               | 20.0  |
+| Ketchup Fried Rice                     | 50.0  |
+| Bacon-Wrapped Hot Dogs                 | 30.0  |
+| Pizza                                  | 70.0  |
+| Ramen                                  | 80.0  |
+
 
 
 ---

@@ -3,8 +3,9 @@
 
 [Breakfast Menu](Menu#breakfast-menu)    
 [Lunch Menu ](Menu.md#Lunch-Menu)  
+[Night Food Menu](Menu.md#night_food_menu)  
 Dinner Menu  
-Night Food Menu  
+
 Beverages  
 
 ## About Us
@@ -15,4 +16,5 @@ Beverages
 |:----------|-----------|----------|
 | Jim       | Breakfast | @jbrucker |
 | Jakkrathorn | Lunch | @Bouncyyahomie |
-| ...       | ...       | ...      |
+| Jirawadee       | Night Food | @JirawadeeSampusri |
+
