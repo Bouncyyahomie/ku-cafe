@@ -1,16 +1,14 @@
 # KU Cafe Menu
 
-## Breakfast Menu
+## Beverage Menu
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
-## Lunch Menu
-
-Coming soon.
-
-etc.
+| Item       | Price |
+| :--------- | ----: |
+| Cola       |  20.0 |
+| Blue Hawai |  15.0 |
+| Lemon tea  |  15.0 |
+| Coffee     |  15.0 |
+| Water      |  10.0 |
 
 ---
 
