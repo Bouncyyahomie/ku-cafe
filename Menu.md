@@ -23,6 +23,7 @@
 | LAMB CURRY                             | 60.00  |
 
 
+
 ---
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
