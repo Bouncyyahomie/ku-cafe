@@ -1,16 +1,16 @@
 # KU Cafe Menu
 
-## Breakfast Menu
-
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
 
 ## Lunch Menu
 
-Coming soon.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| noodles                                | 40.0  |
+| fried rice                             | 35.0  |
+| Curry Soup                             | 50.0  |
+| Hot tomato Soup                        | 50.0  |
+| LAMB CURRY                             | 60.0  |
 
-etc.
 
 ---
 
