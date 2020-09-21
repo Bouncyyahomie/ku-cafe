@@ -1,10 +1,8 @@
 # KU Cafe
 
-**TODO**: add hyperlinks and format these one per line. Remove this TODO.
-
 Breakfast Menu
 Lunch Menu
-Dinner Menu
+[Dinner Menu](Menu.md/#Dinner-Menu) 
 Night Food Menu
 Beverages
 
